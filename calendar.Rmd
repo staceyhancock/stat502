@@ -1,0 +1,285 @@
+---
+title: "M/STAT 501 Course Calendar"
+output:
+  html_document:
+      theme: cerulean
+      toc: TRUE
+      toc_depth: 2
+      toc_float: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### [Back to M/STAT 501 syllabus...](index.html)
+
+STAT 501 aims to cover Chapters 1-5 in Casella and Berger, continuing with Chapters 6-10 in STAT 502. 
+
+# Week 1
+
+#### Mon Aug 17
+
+* Introductions to the course and each other  
+* Section 1.1: Set theory, sigma algebra, basics of probability theory
+
+#### Wed Aug 19
+
+* Section 1.2: Combinatorics in probability
+
+#### Fri Aug 21
+
+* Section 1.2 (cont): Combinatorics in probability
+
+---
+
+# Week 2
+
+#### Mon Aug 24
+
+* Section 1.2 (cont): Combinatorics in probability
+
+#### Wed Aug 26
+
+* Section 1.3: Conditional probability and independence
+* **Homework 1 due** (Sections 1.1-1.2) in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+#### Fri Aug 28
+
+* Section 1.3 (cont): Conditional probability and independence
+
+---
+
+# Week 3
+
+#### Mon Aug 31
+
+* Section 1.4: Random variables
+    - Watch Section 1.3 Mouse Example and Section 1.4 videos in D2L.
+* **_QUIZ 1_** in [Gradescope](https://www.gradescope.com): Sections 1.1-1.2
+
+#### Wed Sep 2
+
+* Section 1.5: Distribution functions
+
+#### Fri Sep 4
+
+* Section 1.6: Density and mass functions
+
+
+---
+
+# Week 4
+
+#### Mon Sep 7
+
+_No classes: Labor Day_
+
+#### Wed Sep 9
+
+* Section 2.1: Distributions of functions of a random variable
+* **Homework 2 due** (Sections 1.3-1.6) in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+#### Fri Sep 11
+
+* Section 2.1 (cont): Distributions of functions of a random variable
+
+
+---
+
+# Week 5
+
+#### Mon Sep 14
+
+* Section 2.1 (cont): Distributions of functions of a random variable
+* **_QUIZ 2_** in class or in Gradescope: Sections 1.3-1.6
+
+#### Wed Sep 16
+
+* Section 2.2: Expected values
+
+#### Fri Sep 18
+
+* Section 2.3: Moments and moment generating functions
+
+---
+
+# Week 6
+
+#### Mon Sep 21
+
+* Section 2.3 (cont): Moments and moment generating functions
+* (Skip Section 2.4)
+
+#### Wed Sep 24
+
+* Section 2.6: Cumulant generating functions and characteristic functions
+* **Homework 3 due** (pdfs and Sections 2.1-2.3) in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+#### Fri Sep 25
+
+* Sections 3.1 and 3.2: Discrete families of distributions
+
+---
+
+# Week 7
+
+#### Mon Sep 28
+
+* No class
+* Video:  Sections 3.1 and 3.2 (cont): Discrete families of distributions
+* **_QUIZ 3_** in [Gradescope](https://www.gradescope.com): Sections 2.1-2.3
+
+#### Wed Sep 30
+
+* Section 3.3: Continuous families of distributions
+
+#### Fri Oct 2
+
+* Section 3.4: Exponential families
+
+---
+
+# Week 8
+
+#### Mon Oct 5
+
+* Section 3.4 (cont): Exponential families
+
+#### Wed Oct 7
+
+* Section 3.5: Location and scale families
+* **Homework 4 due** (Sections 3.1-3.3) in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+
+#### Fri Oct 9
+
+* Attend the Montana Chapter of the American Statistical Association Annual Meeting: Statistics and Social Justice 12:30--4:30pm via Zoom. See meeting [website](https://mt-chapter-asa.github.io/2020-meeting.github.io/) for Zoom information and other details.
+* You are expected to attend the Keynote Address by Dr. Kristian Lum 1:10--2:00pm in place of class today.
+
+---
+
+# Week 9
+
+#### Mon Oct 12
+
+* No class
+* Video:  Section 3.6.1: Chebychev's Inequality
+* **_QUIZ 4_** in [Gradescope](https://www.gradescope.com): Sections 3.1-3.3
+
+#### Wed Oct 14
+
+* Section 4.1: Joint and marginal distributions
+
+#### Fri Oct 16
+
+* Section 4.1 (cont): Joint and marginal distributions
+
+---
+
+# Week 10
+
+#### Mon Oct 19
+
+* Section 4.2: Conditional distributions and independence
+
+#### Wed Oct 21
+* Section 4.4: Hierarchical models and mixture distributions
+* **Homework 5 due** (Sections 3.4-3.6, 4.1) in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+#### Fri Oct 23
+* Section 4.5: Covariance and correlation (bivariate)
+* **Project proposal due** in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+---
+
+# Week 11
+
+#### Mon Oct 26
+
+* No class
+* Video: Section 4.5 (cont): Covariance and correlation
+* **_QUIZ 5_** in [Gradescope](https://www.gradescope.com): Sections 3.4-3.6, 4.1
+
+#### Wed Oct 28
+
+* Section 4.3: Bivariate transformations
+
+#### Fri Oct 30
+
+* Section 4.3 (cont): Bivariate transformations
+
+
+---
+
+# Week 12
+
+#### Mon Nov 2
+
+* Section 4.6: Multivariate distributions
+* **Project draft report due** in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+#### Wed Nov 4
+
+* Section 4.6 (cont): Multivariate distributions
+
+
+#### Thur Nov 5
+
+* **Homework 6 due** (Sections 4.2-4.5) in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+#### Fri Nov 6
+
+* No class
+
+
+---
+
+# Week 13
+
+#### Mon Nov 9
+
+* Covariance and correlation for random vectors (not in textbook)
+
+#### Tue Nov 10
+
+* **_QUIZ 6_** in [Gradescope](https://www.gradescope.com): Sections 4.2-4.5
+   - Quiz 6 will open at noon on Tuesday Nov 10 and close at noon on Tuesday Nov 11. You will have 40 minutes to take the quiz at any time during that time frame.
+
+#### Wed Nov 11
+
+_No classes: Veterans Day_
+
+#### Fri Nov 13
+
+* Section 4.7: Cauchy-Schwarz and Jensen's inequalities
+* Preview of STAT 502
+* **Project final report due** in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+#### Sun Nov 15
+
+* **Project presentation slides due** in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+---
+
+# Week 14
+
+#### Mon Nov 16
+
+* Project presentations
+* **Homework 7 due** (Sections 4.6-4.7) in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+#### Wed Nov 18
+
+* Project presentations
+
+#### Thur Nov 19 
+
+* **_QUIZ 7_** in Gradescope: Sections 4.6-4.7
+
+#### Fri Nov 20 
+
+* Project presentations (if needed)
+
+
+
