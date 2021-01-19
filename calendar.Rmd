@@ -56,15 +56,19 @@ _Martin Luther King Day: No class_
 
 #### Mon Jan 25
 
+* Section 5.5: Convergence concepts
+
 
 #### Wed Jan 27
 
 * No class
+* Video: Convergence concepts (cont)
 * **_QUIZ 1_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): Sections 5.1-5.3
 
 #### Fri Jan 29
 
-
+* (Skip Section 5.6)
+* Section 6.1-6.2: The sufficiency principle 
 
 ---
 
@@ -72,14 +76,16 @@ _Martin Luther King Day: No class_
 
 #### Mon Feb 1
 
+* Section 6.1-6.2: The sufficiency principle (cont)
 
 #### Wed Feb 3
 
-* Section 2.1: Distributions of functions of a random variable
-* **Homework 2 due** in [Gradescope](https://www.gradescope.com) by 5:00pm
+* Section 6.3: The likelihood principle
+* **Homework 2 due** (Sections 5.4-5.5; 6.1-6.2) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Feb 5
 
+* Section 6.3 (cont): The likelihood principle
 
 
 ---
@@ -92,7 +98,7 @@ _Martin Luther King Day: No class_
 #### Wed Feb 10
 
 * No class
-* **_QUIZ 2_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit)
+* **_QUIZ 2_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): Sections 5.4-5.5; 6.1-6.2
 
 #### Fri Feb 12
 
