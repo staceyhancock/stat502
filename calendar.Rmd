@@ -67,8 +67,8 @@ _Martin Luther King Day: No class_
 
 #### Fri Jan 29
 
+* Section 5.5 (cont): Convergence concepts
 * (Skip Section 5.6)
-* Section 6.1-6.2: The sufficiency principle 
 
 ---
 
@@ -76,16 +76,17 @@ _Martin Luther King Day: No class_
 
 #### Mon Feb 1
 
-* Section 6.1-6.2: The sufficiency principle (cont)
+* Section 7.1-7.2: Methods of finding estimators - method of moments
 
 #### Wed Feb 3
 
-* Section 6.3: The likelihood principle
-* **Homework 2 due** (Sections 5.4-5.5; 6.1-6.2) in [Gradescope](https://www.gradescope.com) by 5:00pm
+* Section 6.3.1: The likelihood function
+* Section 7.2 (cont): Methods of finding estimators - maximum likelihood
+* **Homework 2 due** (Sections 5.4-5.5) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Feb 5
 
-* Section 6.3 (cont): The likelihood principle
+* Section 7.2 (cont): Methods of finding estimators - Bayes
 
 
 ---
@@ -94,14 +95,17 @@ _Martin Luther King Day: No class_
 
 #### Mon Feb 8
 
+* Section 7.3: Methods of evaluating estimators
 
 #### Wed Feb 10
 
 * No class
-* **_QUIZ 2_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): Sections 5.4-5.5; 6.1-6.2
+* Video: Methods of evaluating estimators (cont)
+* **_QUIZ 2_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): Sections 5.4-5.5
 
 #### Fri Feb 12
 
+* Section 7.3 (cont): Methods of evaluating estimators
 
 ---
 
@@ -113,10 +117,12 @@ _President's Day: No class_
 
 #### Wed Feb 17
 
-* **Homework 3 due** in [Gradescope](https://www.gradescope.com) by 5:00pm
+* Sections 6.1-6.2: Sufficiency principle
+* **Homework 3 due** (Sections 7.1-7.3) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Feb 19
 
+* Sections 6.2 (cont), Section 7.3.3: Sufficiency principle
 
 ---
 
@@ -128,7 +134,7 @@ _President's Day: No class_
 #### Wed Feb 24
 
 * No class
-* **_QUIZ 3_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit)
+* **_QUIZ 3_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): Sections 7.1-7.3
 
 #### Fri Feb 26
 
