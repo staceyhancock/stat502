@@ -82,12 +82,11 @@ _Martin Luther King Day: No class_
 
 * Section 6.3.1: The likelihood function
 * Section 7.2 (cont): Methods of finding estimators - maximum likelihood
-* **Homework 2 due** (Sections 5.4-5.5) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Feb 5
 
 * Section 7.2 (cont): Methods of finding estimators - Bayes
-
+* **Homework 2 due** (Sections 5.4-5.5) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 ---
 
