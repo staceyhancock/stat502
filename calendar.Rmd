@@ -118,11 +118,11 @@ _President's Day: No class_
 #### Wed Feb 17
 
 * Section 7.3 (cont): Methods of evaluating estimators
-* **Homework 3 due** (Sections 7.1-7.2) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Feb 19
 
 * Sections 6.1-6.2: Sufficiency principle
+* **Homework 3 due** (Sections 7.1-7.2) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 ---
 
