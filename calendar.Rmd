@@ -153,14 +153,15 @@ _President's Day: No class_
 
 #### Mon Mar 1
 
-* Section 10.1: Asymptotic evaluations --- point estimation
+* Sections 6.2 (cont), Section 7.3.3: Sufficiency principle
 
 #### Wed Mar 3
 
-* Section 7.3.4: Loss function optimality
+* Section 10.1: Asymptotic evaluations --- point estimation
 
 #### Fri Mar 5
 
+* Section 7.3.4: Loss function optimality
 * **Homework 4 due** (Sections 7.3.1-7.3.4, 6.2, 10.1) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 ---
@@ -169,7 +170,8 @@ _President's Day: No class_
 
 #### Mon Mar 8
 
-* Chapter 8
+* Simulation example: Consistency
+* Section 8.1: Introduction to hypothesis testing
 * **Project proposal** due in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 
@@ -181,6 +183,7 @@ _President's Day: No class_
 
 #### Fri Mar 12
 
+* Section 8.3: Methods for evaluating tests
 
 ---
 
@@ -188,13 +191,17 @@ _President's Day: No class_
 
 #### Mon Mar 15
 
+* Section 8.3 (cont): Methods for evaluating tests
 
 #### Wed Mar 17
 
+* Section 8.3 (cont): Methods for evaluating tests
 * **Homework 5 due** in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 
 #### Fri Mar 19
+
+* Section 8.2: Methods of finding tests
 
 ---
 
@@ -202,7 +209,7 @@ _President's Day: No class_
 
 #### Mon Mar 22
 
-
+* Section 8.2 (cont): Methods of finding tests
 
 #### Wed Mar 24
 
@@ -211,6 +218,7 @@ _President's Day: No class_
 
 #### Fri Mar 26
 
+* Section 8.3.2: Uniformly most powerful tests
 
 ---
 
@@ -218,9 +226,11 @@ _President's Day: No class_
 
 #### Mon Mar 29
 
+* Section 8.3.2 (cont) and 8.3.4: Uniformly most powerful tests and p-values
 
 #### Wed Mar 31
 
+* Section 9.1: Introduction to interval estimation
 * **Homework 6 due** in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Apr 2
@@ -234,6 +244,7 @@ _University Day: No class_
 
 #### Mon Apr 5
 
+* Section 9.2: Methods of finding interval estimators
 * **Draft project report** due in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Wed Apr 7
@@ -244,6 +255,7 @@ _University Day: No class_
 
 #### Fri Apr 9
 
+* Section 9.2 (cont): Methods of finding interval estimators
 
 ---
 
@@ -251,13 +263,16 @@ _University Day: No class_
 
 #### Mon Apr 12
 
+* Section 9.2 (cont): Methods of finding interval estimators
 
 #### Wed Apr 14
 
+* Section 9.3: Methods of evaluating interval estimators
 * **Homework 7 due** in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Apr 16
 
+* Section 9.3 (cont): Methods of evaluating interval estimators
 * **Final project report** due in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 # Week 15
