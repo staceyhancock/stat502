@@ -178,12 +178,12 @@ _President's Day: No class_
 #### Wed Mar 10
 
 * No class
-* **_QUIZ 4_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): (Sections 7.3.1-7.3.4, 6.2, 10.1)
+* **_QUIZ 4_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): Sections 7.3.1-7.3.4, 6.2, 10.1
 
 
 #### Fri Mar 12
 
-* Section 8.3: Methods for evaluating tests
+* Section 8.3.1: Methods for evaluating tests
 
 ---
 
@@ -191,17 +191,17 @@ _President's Day: No class_
 
 #### Mon Mar 15
 
-* Section 8.3 (cont): Methods for evaluating tests
+* Section 8.3.1 (cont): Methods for evaluating tests
 
 #### Wed Mar 17
 
-* Section 8.3 (cont): Methods for evaluating tests
-* **Homework 5 due** in [Gradescope](https://www.gradescope.com) by 5:00pm
+* Section 8.3.1 (cont): Methods for evaluating tests
 
 
 #### Fri Mar 19
 
-* Section 8.2: Methods of finding tests
+* Section 8.2.1: Likelihood ratio tests
+* **Homework 5 due** (Sections 8.1 and 8.3.1) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 ---
 
@@ -209,12 +209,12 @@ _President's Day: No class_
 
 #### Mon Mar 22
 
-* Section 8.2 (cont): Methods of finding tests
+* Section 8.2.1 (cont): Likelihood ratio tests
 
 #### Wed Mar 24
 
 * No class
-* **_QUIZ 5_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit)
+* **_QUIZ 5_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): Sections 8.1 and 8.3.1
 
 #### Fri Mar 26
 
@@ -231,11 +231,11 @@ _President's Day: No class_
 #### Wed Mar 31
 
 * Section 9.1: Introduction to interval estimation
-* **Homework 6 due** in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Apr 2
 
-_University Day: No class_
+* _University Day: No class_
+* **Homework 6 due** (Sections 8.2.1, 8.3.2, and 8.3.4) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 
 ---
@@ -250,7 +250,7 @@ _University Day: No class_
 #### Wed Apr 7
 
 * No class
-* **_QUIZ 6_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit)
+* **_QUIZ 6_** in [Gradescope](https://www.gradescope.com) 11am--1pm (45 min time limit): Sections 8.2.1, 8.3.2, and 8.3.4
 
 
 #### Fri Apr 9
