@@ -280,7 +280,7 @@ _President's Day: No class_
 #### Mon Apr 19
 
 * Synthesize and summarize concepts from M/STAT 501-502
-* **Homework 7 due** in [Gradescope](https://www.gradescope.com) by 5:00pm
+* **Homework 7 due** (Sections 9.1-9.3) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 
 #### Wed Apr 21
@@ -290,7 +290,7 @@ _President's Day: No class_
 #### Fri Apr 23
 
 * Project presentations
-* **Optional _QUIZ 7_** in [Gradescope](https://www.gradescope.com) 8am--5pm (45 min time limit)
+* **Optional _QUIZ 7_** in [Gradescope](https://www.gradescope.com) 8am--5pm (45 min time limit): Sections 9.1-9.3
     - Quizzes 1--6 comprise your quiz grade for this course, where the lowest grade from Quizzes 1--6 will be dropped. If your score on Quiz 7 is higher than the second lowest score from Quizzes 1--6 (i.e., the lowest quiz score that counts towards your grade), then your score on that quiz will be replaced by your score on this quiz. If you do not take Quiz 7, or if your score on Quiz 7 is lower than the second lowest score from Quizzes 1--6, then your grade will not change.
 
 
