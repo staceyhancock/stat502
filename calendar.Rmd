@@ -263,29 +263,33 @@ _President's Day: No class_
 
 #### Mon Apr 12
 
-* Section 9.2 (cont): Methods of finding interval estimators
+* Section 9.3: Methods of evaluating interval estimators
 
 #### Wed Apr 14
 
-* Section 9.3: Methods of evaluating interval estimators
+* Mathematical statistics applied to linear models
 
 
 #### Fri Apr 16
 
-* Section 9.3 (cont): Methods of evaluating interval estimators
-* **Final project report** due in [Gradescope](https://www.gradescope.com) by 5:00pm
+
+* Mathematical statistics applied to linear models
+* **Final project report** due in **D2L** by 5:00pm
 
 # Week 15
 
 #### Mon Apr 19
 
-* Synthesize and summarize concepts from M/STAT 501-502
-* **Homework 7 due** (Sections 9.1-9.3) in [Gradescope](https://www.gradescope.com) by 5:00pm
+* Mathematical statistics applied to linear models
 
+#### Tue Apr 20
+
+* **Project presentation slides due** in **D2L** (pdf version) by 11:59pm
 
 #### Wed Apr 21
 
 * Project presentations
+* **Homework 7 due** (Sections 9.1-9.3) in [Gradescope](https://www.gradescope.com) by 5:00pm
 
 #### Fri Apr 23
 
@@ -296,7 +300,7 @@ _President's Day: No class_
 
 # Week 16
 
-Finals week: Take-home final exam released in D2L at 8:00am on Monday, April 26; due in [Gradescope](https://www.gradescope.com) by 5:00pm on Thursday, April 29.
+Finals week: Take-home final exam released in D2L and Gradescope at 8:00am on Monday, April 26; due in [Gradescope](https://www.gradescope.com) by 5:00pm on Thursday, April 29.
 
 
 
